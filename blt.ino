@@ -21,4 +21,4 @@ void loop()
      BT.write(Serial.read());
   }
        
-}
+}// fin del metodo
